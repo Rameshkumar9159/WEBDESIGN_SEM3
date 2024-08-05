@@ -15,11 +15,10 @@ This project is a simple image gallery that displays images in a responsive grid
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/image-gallery.git
-    ```
+     git clone https://github.com/Rameshkumar9159/WEBDESIGN_TASK1_SEM3.git    ```
 2. Navigate to the project directory:
     ```bash
-    cd image-gallery
+    cd WEBDESIGN_TASK1_SEM3
     ```
 
 ## Usage
@@ -43,7 +42,7 @@ This project is a simple image gallery that displays images in a responsive grid
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  #Sorry i didn't have licence kindly apologize#
 
 ## Acknowledgements
 
@@ -52,4 +51,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions or feedback, please reach out to [your email address].
+If you have any questions or feedback, please reach out to rameshsv06@gmail.com.
